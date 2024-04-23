@@ -18,6 +18,7 @@ btnButton.addEventListener('click', ()=>{
         btnButton.innerText = "Abonnez-vous";
     } else {
         btnButton.innerText = "Abonné";
+        
     }
-    
+    btnButton.classList.toggle('abonne');
 })
