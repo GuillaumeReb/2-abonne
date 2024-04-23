@@ -23,6 +23,10 @@ h1{
     justify-content: space-between;
 }
 
+.happy{
+    color: #f1bf2a;
+}
+
 .btn{
     padding: 1rem;
     background-color: #b5b5b5;
