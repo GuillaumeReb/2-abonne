@@ -15,5 +15,17 @@
 }
 
 h1{
-    color: red;
+    color: white;
+}
+
+.bloc-btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    padding: 1rem;
+    background-color: #b5b5b5;
+    border: none;
+    color: #1e2337;
 }
